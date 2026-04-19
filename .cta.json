@@ -1,0 +1,23 @@
+{
+  "projectName": "claude-skills",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "bun",
+  "includeExamples": false,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {
+    "VITE_CLERK_PUBLISHABLE_KEY": "pk_test_Y29ycmVjdC1sZW11ci0xMy5jbGVyay5hY2NvdW50cy5kZXYk"
+  },
+  "git": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "biome",
+    "clerk",
+    "compiler",
+    "shadcn",
+    "tanstack-query"
+  ]
+}
